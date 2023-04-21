@@ -1,0 +1,15 @@
+D:\OOP\Labs\OOP_Lab7.1\OOP_Lab7.1\bin\Debug\net6.0\OOP_Lab7.1.exe
+D:\OOP\Labs\OOP_Lab7.1\OOP_Lab7.1\bin\Debug\net6.0\OOP_Lab7.1.deps.json
+D:\OOP\Labs\OOP_Lab7.1\OOP_Lab7.1\bin\Debug\net6.0\OOP_Lab7.1.runtimeconfig.json
+D:\OOP\Labs\OOP_Lab7.1\OOP_Lab7.1\bin\Debug\net6.0\OOP_Lab7.1.dll
+D:\OOP\Labs\OOP_Lab7.1\OOP_Lab7.1\bin\Debug\net6.0\OOP_Lab7.1.pdb
+D:\OOP\Labs\OOP_Lab7.1\OOP_Lab7.1\obj\Debug\net6.0\OOP_Lab7.1.csproj.AssemblyReference.cache
+D:\OOP\Labs\OOP_Lab7.1\OOP_Lab7.1\obj\Debug\net6.0\OOP_Lab7.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Labs\OOP_Lab7.1\OOP_Lab7.1\obj\Debug\net6.0\OOP_Lab7.1.AssemblyInfoInputs.cache
+D:\OOP\Labs\OOP_Lab7.1\OOP_Lab7.1\obj\Debug\net6.0\OOP_Lab7.1.AssemblyInfo.cs
+D:\OOP\Labs\OOP_Lab7.1\OOP_Lab7.1\obj\Debug\net6.0\OOP_Lab7.1.csproj.CoreCompileInputs.cache
+D:\OOP\Labs\OOP_Lab7.1\OOP_Lab7.1\obj\Debug\net6.0\OOP_Lab7.1.dll
+D:\OOP\Labs\OOP_Lab7.1\OOP_Lab7.1\obj\Debug\net6.0\refint\OOP_Lab7.1.dll
+D:\OOP\Labs\OOP_Lab7.1\OOP_Lab7.1\obj\Debug\net6.0\OOP_Lab7.1.pdb
+D:\OOP\Labs\OOP_Lab7.1\OOP_Lab7.1\obj\Debug\net6.0\OOP_Lab7.1.genruntimeconfig.cache
+D:\OOP\Labs\OOP_Lab7.1\OOP_Lab7.1\obj\Debug\net6.0\ref\OOP_Lab7.1.dll
